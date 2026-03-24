@@ -1,7 +1,7 @@
-diff --git a/target/linux/ramips/dts/mt7620a_hiwifi_hc5661.dts b/yake_fix/mt7620a_hiwifi_hc5661.dts
+diff --git a/target/linux/ramips/dts/mt7620a_hiwifi_hc5661.dts b/target/linux/ramips/dts/mt7620a_hiwifi_hc5661.dts
 index 90ce3c92d..7ace255f6 100644
 --- a/target/linux/ramips/dts/mt7620a_hiwifi_hc5661.dts
-+++ b/yake_fix/mt7620a_hiwifi_hc5661.dts
++++ b/target/linux/ramips/dts/mt7620a_hiwifi_hc5661.dts
 @@ -30,4 +30,39 @@
  			linux,default-trigger = "phy0tpt";
  		};
