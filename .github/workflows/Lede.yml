@@ -36,6 +36,8 @@ on:
           - 'x86_32'
           - 'x86_64'
           - 'xiaoyu_xy-c5'
+          - 'dw33d'
+          - 'hc5661'
       INFORMATION_NOTICE:
         description: 'Telegram或pushplus信息通知'
         required: true
